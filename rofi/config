@@ -1,0 +1,17 @@
+
+rofi.lines: 3
+rofi.eh: 2
+rofi.width: 100
+rofi.padding: 800
+rofi.bw: 0
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+
+! A7 means 65% opacity, change its value to change opacity
+rofi.color-enabled: true
+!                   'background',   'border',       'separator'
+rofi.color-window:  argb:a72f343f,  argb:a72f343f,  argb:a72f343f
+!                   'bg'            'fg'        'bgalt'         'hlbg'          'hlfg'
+rofi.color-normal:  argb:002f343f,  #d8dee8,    argb:002f343f,  argb:002f343f,  #bf616a
+rofi.font: System San Francisco Display 14
+
